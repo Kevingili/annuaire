@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1423768914 source:c:\users\kevin\desktop\annuaire_v5\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fonctions.h"
+
+1423769284 source:c:\users\kevin\desktop\annuaire_v5\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fonctions.h"
+
+1423768569 c:\users\kevin\desktop\annuaire_v5\fonctions.h
+
+1423784014 source:c:\users\kevin\desktop\annuaire_v6\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fonctions.h"
+
+1423784014 c:\users\kevin\desktop\annuaire_v6\fonctions.h
+
+1423784014 source:c:\users\kevin\desktop\annuaire_v6\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fonctions.h"
+
+1423784014 source:c:\users\kevin\documents\bts_sio1\semestre 2\slam2\annuaire\annuaire_fini_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fonctions.h"
+
+1425486387 c:\users\kevin\documents\bts_sio1\semestre 2\slam2\annuaire\annuaire_fini_2\fonctions.h
+
